@@ -1,0 +1,7 @@
+Crie um dashboard utilizando o banco de dados Vendas 2.xlsx, e responda as seguintes perguntas:
+
+1 - Qual é o produto que mais e menos vende?
+2 - Quais as categorias que mais vendem por mês?
+3 - Quais lojas vendem mais? (mapa)
+4 - Qual segmento vende mais?
+5 - Use a criatividade e faça uma análise diferente das que foram pedidas.
